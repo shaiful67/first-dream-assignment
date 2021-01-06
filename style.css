@@ -1,3 +1,76 @@
-h1{
-    color: aqua;
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin:0 ;
+    
 }
+
+.decoration1{
+    color: rgb(223, 241, 241);
+    font-size: 50px;
+    
+}
+.decoration2{
+    color: rgb(19, 4, 61);
+    font-size: 40px;
+    font-weight: 600;
+}
+h3{
+    color: rgb(124, 27, 235);
+    font-size: 25px;
+    font-weight: 200;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(2, 19, 2);
+    padding: 10px 20px;
+    border-radius: 25%;
+    color: ghostwhite;
+    font-weight: 700;
+
+}
+.top-banner{
+    background-image: url("img/bb.jpg");
+    background-repeat: no-repeat;
+    height: 1100px;
+}
+
+
+.heading-highlight{
+    color: rgb(19, 4, 61);
+    font-size: 50px;
+}
+
+
+.img-setup{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+     height: 500px;
+}
+
+.img-setup img{
+
+    width:100%;
+}
+.heading-highlight2{
+    color: cornsilk;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 0%;
+    background-color: rgb(4, 4, 39);
+}
+
+    
